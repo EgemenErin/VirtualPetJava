@@ -1,0 +1,2 @@
+# VirtualPetJava
+console app
