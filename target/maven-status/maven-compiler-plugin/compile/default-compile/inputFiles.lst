@@ -1,0 +1,9 @@
+/Users/egemenerin/IdeaProjects/VirtualPetSimulator/src/main/java/dao/GenericDAO.java
+/Users/egemenerin/IdeaProjects/VirtualPetSimulator/src/main/java/manager/GameManager.java
+/Users/egemenerin/IdeaProjects/VirtualPetSimulator/src/main/java/model/Cat.java
+/Users/egemenerin/IdeaProjects/VirtualPetSimulator/src/main/java/model/Dog.java
+/Users/egemenerin/IdeaProjects/VirtualPetSimulator/src/main/java/model/Dragon.java
+/Users/egemenerin/IdeaProjects/VirtualPetSimulator/src/main/java/model/Owner.java
+/Users/egemenerin/IdeaProjects/VirtualPetSimulator/src/main/java/model/Pet.java
+/Users/egemenerin/IdeaProjects/VirtualPetSimulator/src/main/java/org/example/virtualpetsimulator/main/VirtualPetSimulatorApplication.java
+/Users/egemenerin/IdeaProjects/VirtualPetSimulator/src/main/java/util/HibernateUtil.java

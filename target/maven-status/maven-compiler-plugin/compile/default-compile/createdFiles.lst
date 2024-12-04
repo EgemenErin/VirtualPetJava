@@ -1,0 +1,9 @@
+model/Pet.class
+util/HibernateUtil.class
+model/Dragon.class
+dao/GenericDAO.class
+model/Dog.class
+manager/GameManager.class
+model/Owner.class
+org/example/virtualpetsimulator/main/VirtualPetSimulatorApplication.class
+model/Cat.class
